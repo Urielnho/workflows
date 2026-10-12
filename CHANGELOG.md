@@ -1,1 +1,6 @@
-﻿# Historial de versiones`n`n## 1.0.0`n- Proyecto React con Vite.`n- Flujo Git Flow con dev, feature y release.`n- Compilacion automatica y publicacion en la rama build.
+﻿# Historial de versiones
+
+## 1.0.0
+- Proyecto React con Vite.
+- Flujo Git Flow con dev, feature y release.
+- Compilacion automatica y publicacion en build.
