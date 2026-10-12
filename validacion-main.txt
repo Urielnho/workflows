@@ -1,0 +1,1 @@
+Prueba de proteccion de main: este commit debe pasar por Pull Request.
